@@ -28,5 +28,5 @@ Fiz a arte do dashboard no [Canva](https://www.canva.com) 😉
 [Clique aqui e veja o meu Dashboard publicado](https://app.powerbi.com/view?r=eyJrIjoiZWJmZjU4MGMtODJmYy00ZGRlLWFmNDAtZTM0ZmRjOTkyYzhiIiwidCI6ImQwNWQ3NWUyLTVkODktNDllNi04MzM3LTcxYzI0NDQ0M2RkYiJ9)
 
 
-<h1 align="center">Dashboards da Alura</h1>
+<h1 align="center">Dashboard da Alura</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraECommerceBrasil/blob/main/Power%20BI%20desktop%20tratamento%20de%20dados%20power%20query/Dashboard-Olist_alura.png" width="100%" style="max-width: 100%;"></p>
