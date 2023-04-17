@@ -17,9 +17,10 @@ Carga Horária: 8h
 
 
 
-
-
 Fiz a arte do dashboard no [Canva](https://www.canva.com) 😉
+
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7022176780392218624/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7022176780392218624%29)!
+
 
 <h1 align="center">Meu Dashboard produzido</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraECommerceBrasil/blob/main/Power%20BI%20desktop%20tratamento%20de%20dados%20power%20query/AulaPowerQuery.png" width="100%" style="max-width: 100%;"></p>
